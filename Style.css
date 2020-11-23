@@ -1,0 +1,63 @@
+body {
+    background-color: wheat;
+}
+
+#Cliente {
+    float: right ;
+    width: 100px;
+    height: 30px;
+    font-size: 15px;
+    text-align: center;
+    background-color: silver;
+    margin-top: -80px;
+}
+
+
+
+#Admin {
+    float: right ;
+    width: 100px;
+    height: 30px;
+    font-size: 15px;
+    text-align: center;
+    background-color: silver;
+    margin-top: -80px;
+}
+
+
+#loginnosite {
+    margin: 100px auto;
+    background-color: rgb(243, 243, 243);
+    border: 3px solid red;
+    width: 240px;
+    height: 300px;
+}
+
+
+img {
+    width: 100px;
+    display: block;
+    margin: auto;
+    padding-top: 30px;
+    
+}
+
+#login {
+    width: 300px;
+    display: block;
+    margin: auto;
+    padding: 30px ;
+    float: center;
+    text-align: center;
+
+}
+
+#botao {
+float: center;
+width: 50px;
+}
+
+
+
+    
+
